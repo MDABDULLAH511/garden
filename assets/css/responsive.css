@@ -475,6 +475,14 @@
 
 @media only screen and (max-width: 599px) {
 
+
+    .main-header .logo-box {
+    position: relative;
+    width: 35% !importent;
+    padding: 10px 0px 0px 0px;
+}
+
+    
 /* ME */
 .main-header .nav-right {
     display: none !important;
